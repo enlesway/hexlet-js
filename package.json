@@ -1,0 +1,20 @@
+{
+  "name": "hexlet-project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Мой первый проект на Хекслет :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enlesway/hexlet-js.git"
+  },
+  "author": "Igor Sulialev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enlesway/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/enlesway/hexlet-js#readme"
+}
