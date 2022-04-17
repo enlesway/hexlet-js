@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/enlesway/hexlet-js#readme",
   "dependencies": {
+    "hexlet": "^1.0.4",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
